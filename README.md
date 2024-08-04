@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. 
+This is forked from: https://jonbarron.info/. 
